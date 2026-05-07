@@ -67,6 +67,7 @@ This file lists all functions in the schism-toolbox.
 - [`calc_schism_reso.m`](../utilities/calculate/calc_schism_reso.m) - Calculate horizontal resolution of grid cells
 - [`calc_schism_shapiro.m`](../utilities/calculate/calc_schism_shapiro.m) - Calculate the shapiro filter based on bathymetric slope.
 - [`calc_schism_skew.m`](../utilities/calculate/calc_schism_skew.m) - Calculate the skewness (0-1) of each cell
+- [`calc_schism_scribes.m`](../utilities/calculate/calc_schism_scribes.m) - Calculate the # of scribes for SCHISM model
 
 ## utilities/define
 
